@@ -1,3 +1,9 @@
+.font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
 .header{
 background-image: url('../assets/Hero-bg.png');
 position:absulate;
@@ -7,7 +13,24 @@ margin-left: -2px;
 margin-right: px;
 margin-top: 125px;
 margin-bottom: 4468px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
 
 }
+.header-title{
+    width: 998px;
+    height: 136px;
+    padding-left: 182px;
+    padding-right: 260px;
+}
+.header-content{
+    width: 852px;
+    height: 52px;
+    padding-left: 255px;
+    padding-right: 333px;
+}
+  
 
 

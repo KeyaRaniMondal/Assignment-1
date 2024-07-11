@@ -94,7 +94,7 @@ border-radius: 8px;
 margin-left: -800px;
 width:auto 150px;
 height:auto 48px;
-
+background-color: white;
 }
 
  .image1 img{
@@ -143,6 +143,7 @@ margin-left: -1000px;
 width:auto 150px;
 height:auto 48px;
 margin-left: -800px;
+background-color: white;
 }
 .image2 img{
   width: 259.56px;
@@ -185,6 +186,7 @@ padding: 12px 20px 12px 20px;
 margin-left: -800px;
 width:auto 150px;
 height:auto 48px;
+background-color: white;
 }
 
  .image3 img{
@@ -199,4 +201,38 @@ height:auto 48px;
    justify-content: space-between;
    margin: 0px 35px ;
    border-bottom: 5px;
+}
+/* inspiration section */
+.ins{
+  text-align: center;
+}
+.why{
+  margin-top: 80px;
+}
+.reason{
+  width: 852px;
+  height: 52px;
+  margin-left: 180px;
+}
+.video{
+  width:1000px;
+height: 1000px;
+margin: 30px 100px;
+text-align: center;
+border: 10px;
+border-radius: 16px;
+align-self: stretch;
+}
+.target{
+  margin-top: -600px;
+  text-align: center;
+}
+.Reason{
+  width: 852px;
+height: 52px;
+margin-left: 150px;
+}
+.target{
+  /* display: flex;
+   */
 }

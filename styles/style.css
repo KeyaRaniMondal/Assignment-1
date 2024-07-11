@@ -223,7 +223,7 @@ border: 10px;
 border-radius: 16px;
 align-self: stretch;
 }
-.target{
+ .target{
   margin-top: -600px;
   text-align: center;
 }
@@ -232,7 +232,46 @@ align-self: stretch;
 height: 52px;
 margin-left: 150px;
 }
-.target{
-  /* display: flex;
-   */
+/* terget section */
+.target1{
+  display: flex;
+  justify-content: space-between;
+}
+
+/* html-sec{
+  border: 10px solid;
+} */
+
+.html-sec{
+  width: 284px;
+  height: 219px;
+  margin: 32px 0px;
+  padding: 40px;
+border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+}
+.html-sec li{
+  list-style: none;
+}
+.css-sec{
+  width: 284px;
+  height: 219px;
+  margin: 32px 0px;
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+.css-sec li{
+  list-style: none;
+}
+.js-sec{
+  width: 284px;
+  height: 219px;
+  margin: 32px 0px;
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+.js-sec li{
+  list-style: none;
 }
